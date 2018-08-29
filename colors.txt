@@ -1,3 +1,5 @@
 blue
+cyan
+beige
 red
 white
